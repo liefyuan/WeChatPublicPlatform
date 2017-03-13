@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="liefyuan2.0:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/liefyuan2_0_war</output-path>
+    <root id="archive" name="liefyuan2.0_war.war">
+      <element id="artifact" artifact-name="liefyuan2.0:war exploded" />
+    </root>
+  </artifact>
+</component>

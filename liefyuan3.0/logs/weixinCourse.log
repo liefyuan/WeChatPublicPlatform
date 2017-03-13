@@ -1,0 +1,23 @@
+[INFO ] 2017-03-13 12:39:10,521             weixin.MenuManager 菜单创建成功！
+[ERROR] 2017-03-13 12:58:24,629              org.util.MenuUtil 创建菜单失败 errcode:40017 errmsg:invalid button type hint: [2z8xoA0106vr21]
+[INFO ] 2017-03-13 12:58:24,629             weixin.MenuManager 菜单创建失败！
+[ERROR] 2017-03-13 12:59:16,613              org.util.MenuUtil 创建菜单失败 errcode:40027 errmsg:invalid sub button url size hint: [0j7J50158vr22]
+[INFO ] 2017-03-13 12:59:16,615             weixin.MenuManager 菜单创建失败！
+[ERROR] 2017-03-13 13:00:42,692              org.util.MenuUtil 创建菜单失败 errcode:40017 errmsg:invalid button type hint: [hWh7KA0244vr19]
+[INFO ] 2017-03-13 13:00:42,693             weixin.MenuManager 菜单创建失败！
+[ERROR] 2017-03-13 13:05:15,266              org.util.MenuUtil 创建菜单失败 errcode:40017 errmsg:invalid button type hint: [eADWpA0516vr18]
+[INFO ] 2017-03-13 13:05:15,268             weixin.MenuManager 菜单创建失败！
+[ERROR] 2017-03-13 13:05:21,655              org.util.MenuUtil 创建菜单失败 errcode:40017 errmsg:invalid button type hint: [0mEhFA0523vr18]
+[INFO ] 2017-03-13 13:05:21,656             weixin.MenuManager 菜单创建失败！
+[ERROR] 2017-03-13 13:09:29,782              org.util.MenuUtil 创建菜单失败 errcode:40017 errmsg:invalid button type hint: [d0PwLA0771vr20]
+[INFO ] 2017-03-13 13:09:29,783             weixin.MenuManager 菜单创建失败！
+[INFO ] 2017-03-13 13:12:12,154             weixin.MenuManager 菜单创建成功！
+[INFO ] 2017-03-13 13:12:47,881             weixin.MenuManager 菜单创建成功！
+[ERROR] 2017-03-13 13:13:41,940              org.util.MenuUtil 创建菜单失败 errcode:40017 errmsg:invalid button type hint: [F0023vr18]
+[INFO ] 2017-03-13 13:13:41,941             weixin.MenuManager 菜单创建失败！
+[INFO ] 2017-03-13 13:14:22,464             weixin.MenuManager 菜单创建成功！
+[INFO ] 2017-03-13 13:15:18,373             weixin.MenuManager 菜单创建成功！
+[ERROR] 2017-03-13 13:15:54,212              org.util.MenuUtil 创建菜单失败 errcode:40027 errmsg:invalid sub button url size hint: [AK1VAa0155vr21]
+[INFO ] 2017-03-13 13:15:54,213             weixin.MenuManager 菜单创建失败！
+[INFO ] 2017-03-13 13:17:55,434             weixin.MenuManager 菜单创建成功！
+[INFO ] 2017-03-13 13:19:50,634             weixin.MenuManager 菜单创建成功！

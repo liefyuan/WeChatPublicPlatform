@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="liefyuan3.0:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/liefyuan3_0_war</output-path>
+    <root id="archive" name="liefyuan3.0_war.war">
+      <element id="artifact" artifact-name="liefyuan3.0:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/xstream-1.3.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/mysql-connector-java-5.1.7-bin.jar" />
+          <element id="javaee-facet-resources" facet="liefyuan3.0/web/Web" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/json-lib-2.2.3-jdk13.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

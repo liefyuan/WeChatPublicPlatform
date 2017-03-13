@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="liefyuan4.0:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/liefyuan4_0_war</output-path>
+    <root id="archive" name="liefyuan4.0_war.war">
+      <element id="artifact" artifact-name="liefyuan4.0:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/lib/xstream-1.3.1.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
